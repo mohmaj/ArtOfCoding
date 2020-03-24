@@ -1,4 +1,5 @@
-# The Art of Coding: The Language of Drawing, Graphics, and Animation
+# The Art of Coding: 
+## The Language of Drawing, Graphics, and Animation
 
 This is the code repository for the book.
 
